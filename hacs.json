@@ -1,0 +1,6 @@
+{
+    "name": "master_bedroom_light",
+    "country": "US",
+    "render_readme": false,
+    "domains": ["light"]
+}

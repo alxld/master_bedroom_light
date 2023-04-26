@@ -34,4 +34,5 @@ class MasterBedroomLight(NewLight):
         )
 
         self.entities["light.master_bedroom_group"] = None
-        self.switch = "Master Bedroom Switch"
+        # self.switch = "Master Bedroom Switch"
+        self.switch = "00:17:88:01:08:0b:b2:d9"
